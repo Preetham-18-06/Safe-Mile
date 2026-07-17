@@ -1,0 +1,42 @@
+{
+  "nationalNumbers": [
+    { "name": "All-in-One Emergency (ERSS)", "number": "112", "icon": "🆘", "description": "Pan-India single emergency number for police, fire, and medical emergencies." },
+    { "name": "Police", "number": "100", "icon": "👮", "description": "Direct police emergency line." },
+    { "name": "Fire", "number": "101", "icon": "🔥", "description": "Fire emergency services." },
+    { "name": "Medical Emergency", "number": "102", "icon": "⚕️", "description": "Free emergency medical response service." },
+    { "name": "Ambulance", "number": "108", "icon": "🚑", "description": "Free emergency ambulance service (available in most states)." },
+    { "name": "Women Helpline", "number": "1091", "icon": "🚺", "description": "24x7 women's safety and distress helpline." },
+    { "name": "Women Helpline (Domestic Abuse)", "number": "181", "icon": "🚺", "description": "Women helpline for domestic abuse and distress." },
+    { "name": "Child Helpline", "number": "1098", "icon": "🧒", "description": "24x7 helpline for children in need of care and protection." },
+    { "name": "Cyber Crime", "number": "1930", "icon": "💻", "description": "National helpline to report cyber crime and online fraud." },
+    { "name": "State Disaster Management", "number": "1070", "icon": "🌪️", "description": "State-level disaster management helpline." },
+    { "name": "Disaster Control", "number": "1078", "icon": "🌊", "description": "National disaster management control room." },
+    { "name": "National Highway Emergency", "number": "1033", "icon": "🛣️", "description": "24x7 helpline for accidents, breakdowns, and emergencies on National Highways." },
+    { "name": "Railway Security", "number": "139", "icon": "🚆", "description": "Railway protection and security helpline." },
+    { "name": "Tourist Helpline", "number": "1363", "icon": "🧳", "description": "24x7 multilingual helpline for tourists." },
+    { "name": "Senior Citizen Helpline", "number": "14567", "icon": "👴", "description": "Helpline for elderly assistance and support." },
+    { "name": "Tele-MANAS Mental Health", "number": "14416", "icon": "🧠", "description": "24x7 national mental health support and counselling helpline." }
+  ],
+  "highwayContacts": [
+    { "highway": "NH44", "state": "Maharashtra", "district": "Nagpur", "controlRoom": "1033", "note": "Sample entry - replace with verified local control room number if available." },
+    { "highway": "NH48", "state": "Karnataka", "district": "Bengaluru Rural", "controlRoom": "1033", "note": "Sample entry - replace with verified local control room number if available." },
+    { "highway": "NH16", "state": "Andhra Pradesh", "district": "Visakhapatnam", "controlRoom": "1033", "note": "Sample entry - replace with verified local control room number if available." },
+    { "highway": "NH19", "state": "Uttar Pradesh", "district": "Kanpur", "controlRoom": "1033", "note": "Sample entry - replace with verified local control room number if available." },
+    { "highway": "NH27", "state": "Gujarat", "district": "Ahmedabad", "controlRoom": "1033", "note": "Sample entry - replace with verified local control room number if available." },
+    { "highway": "NH44", "state": "Delhi", "district": "New Delhi", "controlRoom": "1033", "note": "Sample entry - replace with verified local control room number if available." },
+    { "highway": "NH66", "state": "Karnataka", "district": "Mangalore", "controlRoom": "1033", "note": "Sample entry - replace with verified local control room number if available." },
+    { "highway": "NH48", "state": "Rajasthan", "district": "Jaipur", "controlRoom": "1033", "note": "Sample entry - replace with verified local control room number if available." },
+    { "highway": "NH12", "state": "West Bengal", "district": "Kolkata", "controlRoom": "1033", "note": "Sample entry - replace with verified local control room number if available." },
+    { "highway": "NH44", "state": "Telangana", "district": "Hyderabad", "controlRoom": "1033", "note": "Sample entry - replace with verified local control room number if available." },
+    { "highway": "NH9", "state": "Uttar Pradesh", "district": "Lucknow", "controlRoom": "1033", "note": "Sample entry - replace with verified local control room number if available." },
+    { "highway": "NH48", "state": "Gujarat", "district": "Vadodara", "controlRoom": "1033", "note": "Sample entry - replace with verified local control room number if available." },
+    { "highway": "NH19", "state": "Uttar Pradesh", "district": "Varanasi", "controlRoom": "1033", "note": "Sample entry - replace with verified local control room number if available." },
+    { "highway": "NH16", "state": "Odisha", "district": "Bhubaneswar", "controlRoom": "1033", "note": "Sample entry - replace with verified local control room number if available." },
+    { "highway": "NH66", "state": "Kerala", "district": "Kochi", "controlRoom": "1033", "note": "Sample entry - replace with verified local control room number if available." },
+    { "highway": "NH48", "state": "Maharashtra", "district": "Pune", "controlRoom": "1033", "note": "Sample entry - replace with verified local control room number if available." },
+    { "highway": "NH44", "state": "Punjab", "district": "Chandigarh", "controlRoom": "1033", "note": "Sample entry - replace with verified local control room number if available." },
+    { "highway": "NH27", "state": "Assam", "district": "Guwahati", "controlRoom": "1033", "note": "Sample entry - replace with verified local control room number if available." },
+    { "highway": "NH32", "state": "Tamil Nadu", "district": "Chennai", "controlRoom": "1033", "note": "Sample entry - replace with verified local control room number if available." },
+    { "highway": "NH27", "state": "West Bengal", "district": "Siliguri", "controlRoom": "1033", "note": "Sample entry - replace with verified local control room number if available." }
+  ]
+}
