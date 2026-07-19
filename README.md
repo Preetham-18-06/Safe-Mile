@@ -4,7 +4,7 @@
 
 Safe Mile is a mobile-first web app that helps people quickly find the correct emergency contact numbers during accidents or medical emergencies on Indian highways, and uses AI to turn a plain-language description of an emergency into the right number to call, immediate action steps, and a shareable emergency message.
 
-**Live demo:** [Add your deployed Vercel link here]
+**Live demo:** safemileai.vercel.app
 **Theme:** Crisis Management, HealthTech & Emergency Response — Idea2Impact Online Hackathon 2026
 
 ---
